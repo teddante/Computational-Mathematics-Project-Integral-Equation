@@ -1,4 +1,5 @@
-# Computational-Mathematics-Project-Integral-equation
+# Computational Mathematics Project Integral equation
+This is a piece of coursework I did as a part of my Computational Mathematics module. It has a merge of Calculus and Python to allow for numerical analysis
 
 # MAT 20031 Project: Integral equation
 
